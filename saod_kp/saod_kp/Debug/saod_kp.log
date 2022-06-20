@@ -1,0 +1,9 @@
+﻿  cars.cpp
+  clients.cpp
+D:\My_projects\saod\saod_kp\saod_kp\take_return.h(1,13): warning C4081: требуется "newline"; обнаружен "."
+  saod_kp.cpp
+D:\My_projects\saod\saod_kp\saod_kp\take_return.h(1,13): warning C4081: требуется "newline"; обнаружен "."
+  take_return.cpp
+D:\My_projects\saod\saod_kp\saod_kp\take_return.h(1,13): warning C4081: требуется "newline"; обнаружен "."
+  Создание кода...
+  saod_kp.vcxproj -> D:\My_projects\saod\saod_kp\Debug\saod_kp.exe
